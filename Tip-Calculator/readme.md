@@ -1,0 +1,1 @@
+In this project we will work out the tip percentages for the bill amount
