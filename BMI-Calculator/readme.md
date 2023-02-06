@@ -1,0 +1,1 @@
+### Calculate the BMI based on the height in meters and the weight in kilograms
