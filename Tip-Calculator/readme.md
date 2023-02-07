@@ -1,1 +1,1 @@
-### Work out the tip percentages for the bill amount
+### Work out the tip percentages for the bill amount for each indivdual person
