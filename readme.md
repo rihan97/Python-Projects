@@ -1,1 +1,1 @@
-# A buch of Python programs to get yourself familiarised with the Python Language and Syntax
+# A buch of Python programs to get yourself familiarised with the Python Language & Syntax
