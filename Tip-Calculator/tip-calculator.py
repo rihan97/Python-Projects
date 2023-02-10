@@ -15,4 +15,4 @@ bill_per_person = total_bill_with_tip / people
 final_amount = round(bill_per_person, 2)
 
 
-print(f" Each person should pay: {final_amount}")
+print(f" Each person should pay: £123{final_amount}")
