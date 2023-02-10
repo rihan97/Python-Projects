@@ -12,7 +12,8 @@ tip_as_percent = percentage_tip / 100
 total_tip_amount = bill * tip_as_percent
 total_bill_with_tip = bill + total_tip_amount
 bill_per_person = total_bill_with_tip / people
-final_amount = round(bill_per_person, 2)
+# final_amount = round(bill_per_person, 2)
+final_amount = "{:.2f}".format(bill_per_person) # Fixes Python format issue to two decimal places
 
 
 print(f" Each person should pay: £123{final_amount}")
